@@ -3,3 +3,4 @@
 import numpy as np
 
 print("hello world", np.zeros(123))
+print("end")
